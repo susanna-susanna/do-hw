@@ -1,6 +1,6 @@
 # Примеры заданий
 
-Пример 1
+[Пример 1](https://github.com/susanna-susanna/do-hw/tree/main/ex1)
 
 Пример 2
 
