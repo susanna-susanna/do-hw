@@ -4,4 +4,4 @@
 
 [Пример 2](https://github.com/susanna-susanna/do-hw/tree/main/ex2)
 
-# Примеры решений  (других заданиям :))
+[Пример 3](https://github.com/susanna-susanna/do-hw/tree/main/ex3)
